@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a2bb3b3fe8df24c92cc3887d567204f0",
+    "revision": "31d7b193ace4cf8b320839f135931473",
     "url": "/Car-Repair/index.html"
   },
   {
-    "revision": "d1eb328a8b6d1fdb37d1",
-    "url": "/Car-Repair/static/css/main.c376dd2e.chunk.css"
+    "revision": "38e824415bf9c6613fc1",
+    "url": "/Car-Repair/static/css/main.dee8420a.chunk.css"
   },
   {
-    "revision": "a837fa522300e75510e3",
-    "url": "/Car-Repair/static/js/2.d48bc89f.chunk.js"
+    "revision": "f5e638dc70113b5c2f21",
+    "url": "/Car-Repair/static/js/2.c85dc81e.chunk.js"
   },
   {
-    "revision": "d1eb328a8b6d1fdb37d1",
-    "url": "/Car-Repair/static/js/main.951c7e76.chunk.js"
+    "revision": "38e824415bf9c6613fc1",
+    "url": "/Car-Repair/static/js/main.d73d049a.chunk.js"
   },
   {
     "revision": "f87a1a432e83255592b4",
@@ -28,8 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Car-Repair/static/media/Call.0d2f0e8a.svg"
   },
   {
+    "revision": "2abef08d922206ae58ff5e8f75015547",
+    "url": "/Car-Repair/static/media/Gilroy-Regular.2abef08d.woff"
+  },
+  {
     "revision": "89ecffb116289cf403d04bfcd5bc50a4",
     "url": "/Car-Repair/static/media/back.89ecffb1.png"
+  },
+  {
+    "revision": "f80cbcee1095f365a8e8aaead6d7f0da",
+    "url": "/Car-Repair/static/media/car.f80cbcee.png"
   },
   {
     "revision": "aaedec65ed7f39d0a2822278807a1abc",
@@ -50,10 +58,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c932331ced4e6cb838e111d9d060aaff",
     "url": "/Car-Repair/static/media/img4.c932331c.png"
-  },
-  {
-    "revision": "edaacc174053ebf879ff485ece9236d7",
-    "url": "/Car-Repair/static/media/img5.edaacc17.png"
   },
   {
     "revision": "05bdb4df0cf26cdefb1b8879579ae8ba",
