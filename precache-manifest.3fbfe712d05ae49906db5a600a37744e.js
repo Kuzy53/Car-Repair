@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2d3c01c5962a4090bf6f549a0459268",
+    "revision": "6006d77c847ec72f49f10ec591de730b",
     "url": "/Car-Repair/index.html"
   },
   {
-    "revision": "087422f635beb8f877d0",
-    "url": "/Car-Repair/static/css/main.160f73f5.chunk.css"
+    "revision": "9d2f71eb3ac827d13585",
+    "url": "/Car-Repair/static/css/main.207c8a10.chunk.css"
   },
   {
-    "revision": "115024575d240625794d",
-    "url": "/Car-Repair/static/js/2.be94e53d.chunk.js"
+    "revision": "bd2d7c539d9a1b1b7e9e",
+    "url": "/Car-Repair/static/js/2.87486a93.chunk.js"
   },
   {
     "revision": "60f6bf9e100e456690e9ab6c9a37bfc2",
-    "url": "/Car-Repair/static/js/2.be94e53d.chunk.js.LICENSE.txt"
+    "url": "/Car-Repair/static/js/2.87486a93.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "087422f635beb8f877d0",
-    "url": "/Car-Repair/static/js/main.9bfa2136.chunk.js"
+    "revision": "9d2f71eb3ac827d13585",
+    "url": "/Car-Repair/static/js/main.9df4c8ab.chunk.js"
   },
   {
     "revision": "6243a9f021e95b25728e",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Car-Repair/static/media/car3.544f5daa.png"
   },
   {
-    "revision": "89882bbe293fb0336749cb1b4751ef3d",
-    "url": "/Car-Repair/static/media/img.89882bbe.png"
+    "revision": "22cedea6ec9a97b3420a828e4744daf0",
+    "url": "/Car-Repair/static/media/img.22cedea6.png"
   },
   {
     "revision": "95e89d3a08f9b29098c53ed7c0571784",

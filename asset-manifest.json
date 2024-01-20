@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Car-Repair/static/css/main.160f73f5.chunk.css",
-    "main.js": "/Car-Repair/static/js/main.9bfa2136.chunk.js",
-    "main.js.map": "/Car-Repair/static/js/main.9bfa2136.chunk.js.map",
+    "main.css": "/Car-Repair/static/css/main.207c8a10.chunk.css",
+    "main.js": "/Car-Repair/static/js/main.9df4c8ab.chunk.js",
+    "main.js.map": "/Car-Repair/static/js/main.9df4c8ab.chunk.js.map",
     "runtime-main.js": "/Car-Repair/static/js/runtime-main.345fce5e.js",
     "runtime-main.js.map": "/Car-Repair/static/js/runtime-main.345fce5e.js.map",
-    "static/js/2.be94e53d.chunk.js": "/Car-Repair/static/js/2.be94e53d.chunk.js",
-    "static/js/2.be94e53d.chunk.js.map": "/Car-Repair/static/js/2.be94e53d.chunk.js.map",
+    "static/js/2.87486a93.chunk.js": "/Car-Repair/static/js/2.87486a93.chunk.js",
+    "static/js/2.87486a93.chunk.js.map": "/Car-Repair/static/js/2.87486a93.chunk.js.map",
     "index.html": "/Car-Repair/index.html",
-    "precache-manifest.ca6563fab3355a1514da0d5a0ee8844b.js": "/Car-Repair/precache-manifest.ca6563fab3355a1514da0d5a0ee8844b.js",
+    "precache-manifest.3fbfe712d05ae49906db5a600a37744e.js": "/Car-Repair/precache-manifest.3fbfe712d05ae49906db5a600a37744e.js",
     "service-worker.js": "/Car-Repair/service-worker.js",
-    "static/css/main.160f73f5.chunk.css.map": "/Car-Repair/static/css/main.160f73f5.chunk.css.map",
-    "static/js/2.be94e53d.chunk.js.LICENSE.txt": "/Car-Repair/static/js/2.be94e53d.chunk.js.LICENSE.txt",
+    "static/css/main.207c8a10.chunk.css.map": "/Car-Repair/static/css/main.207c8a10.chunk.css.map",
+    "static/js/2.87486a93.chunk.js.LICENSE.txt": "/Car-Repair/static/js/2.87486a93.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Car-Repair/static/media/back.89ecffb1.png",
     "static/media/car.png": "/Car-Repair/static/media/car.f80cbcee.png",
     "static/media/car3.png": "/Car-Repair/static/media/car3.544f5daa.png",
-    "static/media/img.png": "/Car-Repair/static/media/img.89882bbe.png",
+    "static/media/img.png": "/Car-Repair/static/media/img.22cedea6.png",
     "static/media/img10.png": "/Car-Repair/static/media/img10.95e89d3a.png",
     "static/media/img11.png": "/Car-Repair/static/media/img11.f8f0a8cf.png",
     "static/media/img12.png": "/Car-Repair/static/media/img12.20e49fc9.png",
@@ -30,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.345fce5e.js",
-    "static/js/2.be94e53d.chunk.js",
-    "static/css/main.160f73f5.chunk.css",
-    "static/js/main.9bfa2136.chunk.js"
+    "static/js/2.87486a93.chunk.js",
+    "static/css/main.207c8a10.chunk.css",
+    "static/js/main.9df4c8ab.chunk.js"
   ]
 }
