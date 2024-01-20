@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94da9f6c40dbb856976fb47c23ee22ba",
+    "revision": "75909bbeee2205faf3d716d5e0fee4e1",
     "url": "/Car-Repair/index.html"
   },
   {
-    "revision": "d5770e9a5db5807d5e4d",
+    "revision": "43ba4e962be6081b6546",
     "url": "/Car-Repair/static/css/main.f5cc2cb2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Car-Repair/static/js/2.5ee39ca0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d5770e9a5db5807d5e4d",
-    "url": "/Car-Repair/static/js/main.d201dd10.chunk.js"
+    "revision": "43ba4e962be6081b6546",
+    "url": "/Car-Repair/static/js/main.cd4294a1.chunk.js"
   },
   {
     "revision": "6243a9f021e95b25728e",
