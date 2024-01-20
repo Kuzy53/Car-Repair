@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Car-Repair/static/css/main.207c8a10.chunk.css",
-    "main.js": "/Car-Repair/static/js/main.9df4c8ab.chunk.js",
-    "main.js.map": "/Car-Repair/static/js/main.9df4c8ab.chunk.js.map",
+    "main.css": "/Car-Repair/static/css/main.f5cc2cb2.chunk.css",
+    "main.js": "/Car-Repair/static/js/main.031d039c.chunk.js",
+    "main.js.map": "/Car-Repair/static/js/main.031d039c.chunk.js.map",
     "runtime-main.js": "/Car-Repair/static/js/runtime-main.345fce5e.js",
     "runtime-main.js.map": "/Car-Repair/static/js/runtime-main.345fce5e.js.map",
-    "static/js/2.87486a93.chunk.js": "/Car-Repair/static/js/2.87486a93.chunk.js",
-    "static/js/2.87486a93.chunk.js.map": "/Car-Repair/static/js/2.87486a93.chunk.js.map",
+    "static/js/2.5ee39ca0.chunk.js": "/Car-Repair/static/js/2.5ee39ca0.chunk.js",
+    "static/js/2.5ee39ca0.chunk.js.map": "/Car-Repair/static/js/2.5ee39ca0.chunk.js.map",
     "index.html": "/Car-Repair/index.html",
-    "precache-manifest.3fbfe712d05ae49906db5a600a37744e.js": "/Car-Repair/precache-manifest.3fbfe712d05ae49906db5a600a37744e.js",
+    "precache-manifest.c2759872ae281616af746342352efba8.js": "/Car-Repair/precache-manifest.c2759872ae281616af746342352efba8.js",
     "service-worker.js": "/Car-Repair/service-worker.js",
-    "static/css/main.207c8a10.chunk.css.map": "/Car-Repair/static/css/main.207c8a10.chunk.css.map",
-    "static/js/2.87486a93.chunk.js.LICENSE.txt": "/Car-Repair/static/js/2.87486a93.chunk.js.LICENSE.txt",
+    "static/css/main.f5cc2cb2.chunk.css.map": "/Car-Repair/static/css/main.f5cc2cb2.chunk.css.map",
+    "static/js/2.5ee39ca0.chunk.js.LICENSE.txt": "/Car-Repair/static/js/2.5ee39ca0.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Car-Repair/static/media/back.89ecffb1.png",
     "static/media/car.png": "/Car-Repair/static/media/car.f80cbcee.png",
     "static/media/car3.png": "/Car-Repair/static/media/car3.544f5daa.png",
@@ -30,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.345fce5e.js",
-    "static/js/2.87486a93.chunk.js",
-    "static/css/main.207c8a10.chunk.css",
-    "static/js/main.9df4c8ab.chunk.js"
+    "static/js/2.5ee39ca0.chunk.js",
+    "static/css/main.f5cc2cb2.chunk.css",
+    "static/js/main.031d039c.chunk.js"
   ]
 }
