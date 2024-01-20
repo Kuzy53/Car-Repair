@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Car-Repair/static/css/main.982ba05b.chunk.css",
-    "main.js": "/Car-Repair/static/js/main.15dafb13.chunk.js",
-    "main.js.map": "/Car-Repair/static/js/main.15dafb13.chunk.js.map",
+    "main.js": "/Car-Repair/static/js/main.2e8d02e1.chunk.js",
+    "main.js.map": "/Car-Repair/static/js/main.2e8d02e1.chunk.js.map",
     "runtime-main.js": "/Car-Repair/static/js/runtime-main.345fce5e.js",
     "runtime-main.js.map": "/Car-Repair/static/js/runtime-main.345fce5e.js.map",
     "static/js/2.e1aabee4.chunk.js": "/Car-Repair/static/js/2.e1aabee4.chunk.js",
     "static/js/2.e1aabee4.chunk.js.map": "/Car-Repair/static/js/2.e1aabee4.chunk.js.map",
     "index.html": "/Car-Repair/index.html",
-    "precache-manifest.d72829158009c6a3eb80627d60b6ab86.js": "/Car-Repair/precache-manifest.d72829158009c6a3eb80627d60b6ab86.js",
+    "precache-manifest.ccd1cd19e5d32c93b13f153eb23e9fda.js": "/Car-Repair/precache-manifest.ccd1cd19e5d32c93b13f153eb23e9fda.js",
     "service-worker.js": "/Car-Repair/service-worker.js",
     "static/css/main.982ba05b.chunk.css.map": "/Car-Repair/static/css/main.982ba05b.chunk.css.map",
     "static/js/2.e1aabee4.chunk.js.LICENSE.txt": "/Car-Repair/static/js/2.e1aabee4.chunk.js.LICENSE.txt",
@@ -32,6 +32,6 @@
     "static/js/runtime-main.345fce5e.js",
     "static/js/2.e1aabee4.chunk.js",
     "static/css/main.982ba05b.chunk.css",
-    "static/js/main.15dafb13.chunk.js"
+    "static/js/main.2e8d02e1.chunk.js"
   ]
 }
