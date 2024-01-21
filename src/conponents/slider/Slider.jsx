@@ -5,8 +5,8 @@ import img3 from '../../assets/img4.webp'
 import img4 from '../../assets/img7.webp'
 import img5 from '../../assets/img8.webp'
 import img6 from '../../assets/img9.webp'
-import arrow1 from '../../assets/arrow1.png'
-import arrow2 from '../../assets/arrow2.png'
+import arrow1 from '../../assets/arrow1.webp'
+import arrow2 from '../../assets/arrow2.webp'
 import Contact from '../contact/Contact';
 
 const wid = window.innerWidth
