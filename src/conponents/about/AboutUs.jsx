@@ -14,7 +14,7 @@ all your automotive needs.
        </h1>
        <p>Join us for top-notch service and experience our commitment to excellence. Your vehicle deserves the best, and that's what we provide. Visit us today!</p>
      </div>
-     <div class="about__num">
+     <div className="about__num">
                 <div className="about__item">
                   <div className="about__container">
                     <div className="about__title">

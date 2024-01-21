@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react';
-import Cont from '../../assets/car.png'
-import Cont2 from '../../assets/car3.png'
+import Cont from '../../assets/car.webp'
+import Cont2 from '../../assets/car3.webp'
 import emailjs from '@emailjs/browser';
 import Popup from './popup';
 

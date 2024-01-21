@@ -1,10 +1,10 @@
 import React, { useState, useRef, useEffect } from 'react';
-import img1 from '../../assets/img2.png'
-import img2 from '../../assets/img3.png'
-import img3 from '../../assets/img4.png'
-import img4 from '../../assets/img7.png'
-import img5 from '../../assets/img8.png'
-import img6 from '../../assets/img9.png'
+import img1 from '../../assets/img2.webp'
+import img2 from '../../assets/img3.webp'
+import img3 from '../../assets/img4.webp'
+import img4 from '../../assets/img7.webp'
+import img5 from '../../assets/img8.webp'
+import img6 from '../../assets/img9.webp'
 import arrow1 from '../../assets/arrow1.png'
 import arrow2 from '../../assets/arrow2.png'
 import Contact from '../contact/Contact';
@@ -24,13 +24,12 @@ const SliderBlock = () => {
   const slider = useRef(null);
 
   const items = [
-    { imgSrc: img1, title: 'General Maintenance', description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aperiam corrupti aliquid qui assumenda soluta ipsa' },
-    { imgSrc: img2, title: 'Repair and Replacement', description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aperiam corrupti aliquid qui assumenda soluta ipsa' },
-    { imgSrc: img3, title: 'Fuel System Repair', description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aperiam corrupti aliquid qui assumenda soluta ipsa' },
-    { imgSrc: img4, title: 'Tire Repair and Replacement', description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aperiam corrupti aliquid qui assumenda soluta ipsa' },
-    { imgSrc: img5, title: 'Wheel Alignment', description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aperiam corrupti aliquid qui assumenda soluta ipsa' },
-    { imgSrc: img6, title: 'Tune Up', description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aperiam corrupti aliquid qui assumenda soluta ipsa' },
-  
+    { imgSrc: img1, title: 'General Maintenance', description:'Basic car maintenance involves checking or replacing parts like spark plugs, wires, fluids, and serpentine belts' },
+    { imgSrc: img2, title: 'Repair and Replacement', description: 'Repair exceeds 50 percent of the total cost of replacing the item, then go with the replacement' },
+    { imgSrc: img3, title: 'Fuel System Repair', description: 'Fuel System Service removes dirt, varnish & carbon deposits from the entire fuel system, air intake' },
+    { imgSrc: img4, title: 'Tire Repair and Replacement', description: 'There are several types of irregular wear, the most typical variations being heel and toe wear, one-sided wear, and center wear.' },
+    { imgSrc: img5, title: 'Wheel Alignment', description: 'Wheel alignment is the process of getting your tires aligned, i.e. making sure that the tire angles are optimized with each other and to the surface of the road' },
+    { imgSrc: img6, title: 'Tune Up', description: 'Tuning is a broad term for modifying your car’s engine and other components to enhance performance and adjust the handling' },
   ];
 
   useEffect(() => {

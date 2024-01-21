@@ -1,5 +1,5 @@
 import React from 'react';
-import Img from '../../assets/img6.png'
+import Img from '../../assets/img6.webp'
 import Star from '../../assets/star.svg'
 import FaqItem from './FaqItem'
 

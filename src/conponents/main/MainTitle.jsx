@@ -1,5 +1,5 @@
 import React from 'react';
-import Img from '../../assets/img.png'
+import Img from '../../assets/img.webp'
 import { Link } from "react-scroll";
 
 const MainTitle = () => (
