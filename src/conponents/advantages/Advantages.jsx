@@ -15,7 +15,7 @@ const Advantages = () => (
  <section className="why">
  <div className="container">
  <div className="why__title">
-  <p className="why__p">Our advantages >></p>
+  <p className="why__p">Our advantages &gt;&gt;</p>
   <img src={Star} alt="" className="why__img wy" />
   <h1 className="why__h">Why you should choose sales & service for repairs</h1>
   <img src={Star} alt="" className="why__img wi" />

@@ -56,7 +56,7 @@ const SliderBlock = () => {
       <div className="container">
         <div className="what__do">
           <div className="what__title">
-            <div className="what__p">What we do >></div>
+            <div className="what__p">What we do &gt;&gt;</div>
             <div className="what_h">
               <h1>We provide a full range of car repair services</h1>
             </div>
