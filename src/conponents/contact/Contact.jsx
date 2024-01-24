@@ -16,7 +16,7 @@ const Contact = () => {
     }, 2000);
     e.preventDefault();
 
-    emailjs.sendForm('contact_server', 'contact_forms', form.current, 'dskbWQtmTS4MWFO6z')
+    emailjs.sendForm('contact_service', 'contact_form', form.current, 'dskbWQtmTS4MWFO6z')
       .then((result) => {
           console.log(result.text);
       }, (error) => {
@@ -32,9 +32,9 @@ const Contact = () => {
         <p className="contact__p">
           Fill out the short form, <span>leave a request and we will contact you</span> to discuss the details as soon as possible
         </p>
-        <form id="contact-forms"  ref={form} onSubmit={sendEmail}>
-          <input id="name" type="text" className="user_name" placeholder="Your Name" required />
-          <input id="phone" type="number" className="user_phone" placeholder="Your phone" required />
+        <form id="contact-form"  ref={form} onSubmit={sendEmail}>
+          <input id="name" type="text" className="user_name" name="user_name" placeholder="Your Name" required />
+          <input id="phone" type="number" className="user_phone" name="user_phone" placeholder="Your phone" required />
           <button className="form__btn" type="submit">Contact us</button>
         </form>
         <Popup showPopup={showPopup} setShowPopup={setShowPopup} />
